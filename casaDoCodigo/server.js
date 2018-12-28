@@ -1,3 +1,5 @@
+// o require serve para importar dados, modulos....
+
 const app = require('./src/config/custom-express')
 
 app.listen(3000, function(){
